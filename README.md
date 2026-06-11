@@ -23,29 +23,30 @@ The goal of this project is to:
 
 # Why is this Project Needed?
 
-### Problem:
-
-Customers are leaving the company.
+### Problem : Customers are leaving the company.
+---
 
 #### Why 1: Why are customers leaving?
 
-Because they are dissatisfied with the service, pricing, or overall experience.
+Because they are dissatisfied with the **service, pricing, or overall experience.**
 
 #### Why 2: Why are they dissatisfied?
 
-Because certain customer segments experience issues such as high costs, poor service quality, or unsuitable plans.
+Because certain customer segments experience issues such as **high costs, poor service quality, or unsuitable plans.**
 
 #### Why 3: Why are these issues not addressed early?
 
-Because the company lacks visibility into which customers are likely to churn.
+Because the company **lacks visibility** into which customers are likely to churn.
 
 #### Why 4: Why doesn't the company know who is likely to churn?
 
-Because customer data is not being analyzed effectively to identify churn patterns.
+Because **customer data is not being analyzed effectively** to identify churn patterns.
 
 #### Why 5: Why isn't customer data being used effectively?
 
-Because there is no predictive system that transforms raw customer data into actionable business insights.
+Because there is **no predictive system that transforms raw customer data into actionable business insights.**
+
+---
 
 ### Root Cause
 
