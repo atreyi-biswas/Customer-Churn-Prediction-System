@@ -166,8 +166,6 @@ Demonstrates data collection, analysis, modeling, and visualization.
 
 # Technology Stack
 
-## Technology Stack
-
 | Category                | Technology          | Purpose                                                        |
 | ----------------------- | ------------------- | -------------------------------------------------------------- |
 | Programming Language    | Python              | Data processing, analysis, and machine learning implementation |
